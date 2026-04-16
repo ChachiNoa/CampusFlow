@@ -19,8 +19,9 @@
 3. **Esperar Aprobación:** No avanzar hasta recibir "Aprobado", "Continuar" o correcciones.
 4. **Resumen de Commit:** Generar un resumen profesional al final de cada fase.
 5. **Gestión de TODO.md:** Crear y actualizar `TODO.md`. Marcar tareas completadas con `[x]` tras la aprobación.
-6. **Revisión de Silenciosa:** Revisar este archivo antes de cada respuesta para mantener la coherencia.
+6. **Revisión Silenciosa:** Revisar este archivo antes de cada respuesta para mantener la coherencia.
 7. **Idioma:** Comunicación y código (comentarios, strings) exclusivamente en español castellano.
+8. **Nivel Técnico:** El desarrollo debe ser sencillo, con un nivel técnico bajo-medio, priorizando la claridad y funcionalidad básica.
 
 ## Fases de Desarrollo
 - **FASE 0:** Inicialización y Contexto.

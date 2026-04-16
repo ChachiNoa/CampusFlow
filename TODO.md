@@ -1,6 +1,6 @@
 # Plan de Trabajo - CampusFlow
 
-## FASE 0: Inicialización y Contexto [ ]
+## FASE 0: Inicialización y Contexto [x]
 - [x] Creación de `context.md`.
 - [x] Creación de `TODO.md`.
 - [x] Configuración del esqueleto del proyecto y `strings.xml` base.
