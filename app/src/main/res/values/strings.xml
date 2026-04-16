@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CampusFlow</string>
+
+    <!-- Navigation Drawer -->
+    <string name="menu_subjects">Mis Asignaturas</string>
+    <string name="menu_announcements">Avisos del Campus</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+
+    <!-- Tabs -->
+    <string name="tab_pending">Pendientes</string>
+    <string name="tab_completed">Completadas</string>
+
+    <!-- Task Form -->
+    <string name="hint_task_title">Título de la tarea</string>
+    <string name="label_priority">Prioridad Alta</string>
+    <string name="label_subject">Asignatura</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+
+    <!-- Feedback -->
+    <string name="msg_task_saved">Tarea guardada con éxito</string>
+    <string name="msg_task_deleted">Tarea eliminada</string>
+    <string name="msg_confirm_delete">¿Estás seguro de que deseas eliminar esta tarea?</string>
+    <string name="dialog_yes">Sí</string>
+    <string name="dialog_no">No</string>
+
+    <!-- Settings -->
+    <string name="pref_profile_name">Nombre de perfil</string>
+    <string name="pref_notifications">Notificaciones Push</string>
+</resources>
